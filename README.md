@@ -1,0 +1,1 @@
+# FE-mentor-Interactive-rating-component
